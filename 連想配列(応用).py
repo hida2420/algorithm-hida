@@ -6,7 +6,7 @@
 #[D - Rectangles]
 #https://atcoder.jp/contests/abc218/tasks/abc218_d
 
-#1：まずはこれ
+#1：まずは入力
 N = int(input())
 
 #3:入力を格納する場所をつくらねば
